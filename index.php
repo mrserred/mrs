@@ -2,9 +2,9 @@
 /**
  * 
  * Programa que llama a la clase funicones y ejecuta cada una de sus funcines
- * 
+ * Hacemos un cambio en los comentarios.
  * @author Marcos
- * @version: 1.0
+ * @version: 1.0.1
  */
 ?>
 <!DOCTYPE html>
